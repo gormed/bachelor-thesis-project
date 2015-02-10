@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AA7D5A9A-40B9-AF24-C13C-3AA256AA86D4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Caede",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CodeView",
+			"Enabled": false
+		},
+		{
+			"Name": "TrueSkyPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	]
+}
